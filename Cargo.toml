@@ -1,7 +1,9 @@
 [package]
 name = "tauri-plugin-async-wrapper"
+description = "A procedural macro for offloading blocking tasks to background threads in Tauri apps, ensuring smooth and responsive performance."
 version = "0.1.0"
 edition = "2021"
+authors = ["Mamahuhu(support@mamahuhu.io)"]
 
 [dependencies]
 syn = { version = "2.0.93", features = ["full"] }

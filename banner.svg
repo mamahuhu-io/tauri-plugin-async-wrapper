@@ -1,0 +1,18 @@
+<svg width="288" height="64" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1" fill-rule="evenodd" fill="none">
+   <rect id="svg_2" rx="4" fill="#80D25B" y="4" x="4" height="56" width="56"/>
+   <path id="svg_3" transform="rotate(75 47.504 17.03)" d="m47.50446,25.52959c2.76143,0 5,-2.34189 5,-5.23077c0,-2.88887 -5,-11.76923 -5,-11.76923c0,0 -5,8.88036 -5,11.76923c0,2.88888 2.23858,5.23077 5,5.23077z" fill="#22BA8E"/>
+   <path id="svg_4" transform="rotate(75 17.5048 17.0293) scale(-1 1)" d="m17.50446,25.52959c2.76143,0 5,-2.34189 5,-5.23077c0,-2.88887 -5,-11.76923 -5,-11.76923c0,0 -5,8.88036 -5,11.76923c0,2.88888 2.23858,5.23077 5,5.23077z" fill="#22BA8E"/>
+   <path id="svg_5" d="m44,18c-6.62742,0 -12,5.37258 -12,12" stroke-width="2" stroke-linecap="round" stroke="#22BA8E"/>
+   <path id="svg_6" d="m20,18c6.62742,0 12,5.37258 12,12" stroke-width="2" stroke-linecap="round" stroke="#22BA8E"/>
+   <rect id="svg_7" rx="7" fill="#FFF" y="29" x="15" height="26" width="34"/>
+   <rect id="svg_8" fill="#D8D8D8" y="34" x="22" height="8" width="4"/>
+   <rect id="svg_9" fill="#D8D8D8" y="34" x="38" height="8" width="4"/>
+   <circle id="svg_10" fill="#D8D8D8" r="3" cy="49" cx="32"/>
+  </g>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_11" y="40" x="71" stroke-width="0" stroke="#000" fill="#80d25b">ASYNC WRAPPER</text>
+ </g>
+</svg>

@@ -26,7 +26,7 @@ Install the Core plugin by adding the following to your `Cargo.toml` file:
 
 ```toml
 [dependencies]
-tauri-plugin-async-wrapper = "0.1.0"
+tauri-plugin-async-wrapper = "0.1.2"
 # alternatively with Git:
 tauri-plugin-log = { git = "https://github.com/mamahuhu-io/tauri-plugin-async-wrapper.git", branch = "main" }
 ```

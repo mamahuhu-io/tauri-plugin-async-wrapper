@@ -2,12 +2,18 @@
 name = "tauri-plugin-async-wrapper"
 description = "A procedural macro for offloading blocking tasks to background threads in Tauri apps, ensuring smooth and responsive performance."
 version = "0.1.0"
-edition = "2021"
 authors = ["Mamahuhu(support@mamahuhu.io)"]
+license = "MIT"
+repository = "https://github.com/mamahuhu-io/tauri-plugin-async-wrapper"
+homepage = "https://github.com/mamahuhu-io/tauri-plugin-async-wrapper"
+readme = "README.md"
+autotests = true
+edition = "2021"
 
 [dependencies]
 syn = { version = "2.0.93", features = ["full"] }
 quote = "1.0.38"
+proc-macro2 = "1.0.92"
 
 [lib]
 proc-macro = true
